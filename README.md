@@ -36,4 +36,8 @@ Linea 1
 >>>>>>> 1583483 (docs: add line 1)
 =======
 Linea 2
+<<<<<<< HEAD
 >>>>>>> 3242883 (docs: add line 2)
+=======
+Linea feature
+>>>>>>> c1d0411 (docs: update README on feature)
